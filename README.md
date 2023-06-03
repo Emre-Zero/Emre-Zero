@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Emre-Zero/Emre-Zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my *personal* GitHub account.
 
-Here are some ideas to get you started:
+Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://github.com/Emre-Zero/whispercast
+
+- https://ball-e.app/
+
+- Skills demonstration (1 year out-of-date): https://github.com/Voyager-Two/tech-demo
+
+You may also see my professional GitHub account: https://github.com/Voyager-Two
