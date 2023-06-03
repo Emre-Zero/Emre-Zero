@@ -1,6 +1,6 @@
 Hi there 👋
 
-This is my *personal* GitHub account.
+This is my **personal** GitHub account.
 
 Projects:
 
